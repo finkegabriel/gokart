@@ -1,0 +1,9 @@
+Todos
+
+#mechanical
+
+1). Need to design control arms for steering
+2). Need to desgin motor mounts for the hub motor
+
+#electrical
+
